@@ -1,6 +1,6 @@
 # ShakySend
 <p>
-  ShakySend is a Simple emailing command that sends email to any person by runing a simple program.
+  ShakySend is a Simple emailing command that sends email to any person by running a simple program.
   </p>
   
 # How to install smtplib
